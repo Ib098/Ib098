@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a)! 👋  
 ### Sou Ítalo Bruno | Desenvolvedor de Software & Estudante de Engenharia de Software
 
-Trabalho na interseção entre o raciocínio estruturado e precisão analítica da **Engenharia de Computação**. Minha abordagem no desenvolvimento de software é pautada pelo rigor técnico, atenção extrema aos detalhes e construção de sistemas tolerantes a falhas.
+Trabalho na interseção entre o raciocínio estruturado e precisão analítica da **Engenharia de Software**. Minha abordagem no desenvolvimento de software é pautada pelo rigor técnico, atenção extrema aos detalhes e construção de sistemas tolerantes a falhas.
 
 Atualmente, meu foco está na criação de soluções backend resilientes, pipelines de ingestão e sanitização de dados, e no design de APIs RESTful limpas e bem documentadas.
 
