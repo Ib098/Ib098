@@ -15,16 +15,32 @@ Atualmente, meu foco está na criação de soluções backend resilientes, pipel
 
 ---
 
-### 🛠️ Stack Técnica Principal
+### 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Python (3.10+), JavaScript (ES6+)
-- **Backend & APIs:** FastAPI, Uvicorn, REST, CORS Security, Pydantic
-- **Frontend & Visualização:** Streamlit, Vanilla JS, Tailwind CSS, Chart.js
-- **Engenharia de Dados & Ferramentas:** Parsing/Sanitização de Dados, OpenPyXL, Git, VS Code, Linux
+#### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+#### Frontend & Data Viz
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+#### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 📬 Vamos nos conectar?
 
-- **LinkedIn:** (https://www.linkedin.com/in/%C3%ADtalo-bruno)
-- **E-mail:** (mailto:italo_bruno2011@hotmail.com)
+- **LinkedIn:** www.linkedin.com/in/ítalo-b-155b73167
+- **E-mail:** italo_bruno2011@hotmail.com
