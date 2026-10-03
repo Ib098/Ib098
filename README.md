@@ -17,9 +17,9 @@ Atuo no desenvolvimento de software pautado pelo rigor lógico, atenção extrem
 
 🔍 **[Financial Audit Engine](https://github.com/Ib098/Financial-Audit-Parsing-Engine-Python-Pandas-OpenPyXL-Pytest-)**  
 *Motor de auditoria lógica e sanitização de relatórios financeiros brutos.*
-- **Arquitetura Resiliente:** API assíncrona (FastAPI) e Dashboard analítico (Streamlit) operando em arquitetura dual, com clientes web estáticos estritamente desacoplados.
+- **Arquitetura Coesa:** API RESTful (FastAPI) e Dashboard analítico integrado (Streamlit) operando em sincronia estrita.
 - **Parsing Universal:** Algoritmo heurístico para detecção automática de delimitadores e extração robusta de layouts industriais e legados.
-- **Infraestrutura e DevOps:** Ecossistema integralmente conteinerizado via `Docker Compose` e exposto para acesso remoto seguro através de túneis `Cloudflare`.
+- **Infraestrutura e DevOps:** Ecossistema integralmente conteinerizado via `Docker Compose`, com persistência de volumes locais e exposição remota segura sob demanda através de túneis `Cloudflare`.
 
 ---
 
