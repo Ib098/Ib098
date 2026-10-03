@@ -1,17 +1,25 @@
 # Olá, seja bem-vindo(a)! 👋  
-### Sou Ítalo Bruno | Desenvolvedor de Software & Estudante de Engenharia de Software
+### Sou Ítalo Bruno | Desenvolvedor Backend & Estudante de Engenharia de Computação
 
-Trabalho na interseção entre o raciocínio estruturado e precisão analítica da **Engenharia de Software**. Minha abordagem no desenvolvimento é pautada pelo rigor lógico, atenção extrema aos detalhes e construção de sistemas tolerantes a falhas.
-
-Atualmente, meu foco está na criação de soluções backend resilientes, pipelines de ingestão e sanitização de dados, e no design de APIs RESTful limpas e bem documentadas.
+Atuo no desenvolvimento de software pautado pelo rigor lógico, atenção extrema aos detalhes e construção de sistemas inerentemente tolerantes a falhas. Meu foco de engenharia reside na arquitetura backend, orquestração de infraestrutura e no design de APIs RESTful escaláveis, assegurando integridade e performance no processamento de dados complexos.
 
 ---
 
 ### 🌐 Minha Atuação & Diferenciais
 
-- **Arquitetura & Backend:** Desenvolvimento de sistemas assíncronos e RESTful utilizando Python (FastAPI), com separação rigorosa de camadas (Parser, Auditor, Reporter) e controle de contrato de dados.
-- **Engenharia & Qualidade:** Aplicação de conceitos de computação para resolução de problemas de compliance, auditoria contábil e processamento de arquivos em grande escala.
-- **Visão Sistêmica:** A transição do Direito para a Computação me proporcionou uma capacidade diferenciada para interpretar requisitos complexos de negócios, regras de compliance e exceções de borda (*edge cases*).
+- **Arquitetura & Backend:** Desenvolvimento de sistemas assíncronos e RESTful utilizando Python (FastAPI), com separação rigorosa de camadas estruturais (Parser, Auditor, Reporter) e controle estrito de contratos de integração.
+- **Engenharia de Dados & Qualidade:** Construção de pipelines de ingestão e sanitização de dados em larga escala, aplicando algoritmos e heurísticas para resolução de anomalias em matrizes contábeis e financeiras.
+- **Visão Sistêmica & Resiliência:** Capacidade analítica orientada ao mapeamento de requisitos lógicos e *edge cases* (casos de borda), projetando ecossistemas com alta resiliência sistêmica, desde a modelagem de serviços desacoplados até a conteinerização da infraestrutura de implantação.
+
+---
+
+### 🚀 Projeto em Destaque
+
+🔍 **[Financial Audit Engine](https://github.com/Ib098/Financial-Audit-Parsing-Engine-Python-Pandas-OpenPyXL-Pytest-)**  
+*Motor de auditoria lógica e sanitização de relatórios financeiros brutos.*
+- **Arquitetura Resiliente:** API assíncrona (FastAPI) e Dashboard analítico (Streamlit) operando em arquitetura dual, com clientes web estáticos estritamente desacoplados.
+- **Parsing Universal:** Algoritmo heurístico para detecção automática de delimitadores e extração robusta de layouts industriais e legados.
+- **Infraestrutura e DevOps:** Ecossistema integralmente conteinerizado via `Docker Compose` e exposto para acesso remoto seguro através de túneis `Cloudflare`.
 
 ---
 
@@ -44,5 +52,5 @@ Atualmente, meu foco está na criação de soluções backend resilientes, pipel
 
 ### 📬 Vamos nos conectar?
 
-- **LinkedIn:** www.linkedin.com/in/ítalo-b-155b73167
-- **E-mail:** italo_bruno2011@hotmail.com
+- **LinkedIn:** [linkedin.com/in/ítalo-bruno](https://www.linkedin.com/in/%C3%ADtalo-b-155b73167)
+- **E-mail:** [italo_bruno2011@hotmail.com](mailto:italo_bruno2011@hotmail.com)
