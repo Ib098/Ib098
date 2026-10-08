@@ -55,6 +55,6 @@ Contudo, a espinha dorsal de todo o meu código — a escolha das estruturas de 
 
 ### 📬 Contacto & Redes Profissionais
 
-- **LinkedIn:** [linkedin.com/in/ítalo-bruno](https://www.linkedin.com/in/%C3%ADtalo-bruno-155b73167)[cite: 13]
-- **GitHub:** [github.com/Ib098](https://github.com/Ib098)[cite: 13]
-- **E-mail:** [italo_bruno2011@hotmail.com](mailto:italo_bruno2011@hotmail.com)[cite: 13]
+- **LinkedIn:** [linkedin.com/in/ítalo-bruno](https://www.linkedin.com/in/%C3%ADtalo-bruno-155b73167)
+- **GitHub:** [github.com/Ib098](https://github.com/Ib098)
+- **E-mail:** [italo_bruno2011@hotmail.com](mailto:italo_bruno2011@hotmail.com)
