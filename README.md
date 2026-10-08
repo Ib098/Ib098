@@ -5,7 +5,7 @@ Desenvolvedor focado na conceção de sistemas determinísticos para processamen
 
 ---
 
-### 🧠 Manifesto Técnico: Inteligência Artificial & Fundamentos Clássicos
+### 🧠 Inteligência Artificial & Fundamentos Clássicos
 
 Acredito no Desenvolvimento Assistido por Inteligência Artificial com rigor metodológico. Utilizo modelos generativos (LLMs) como aceleradores de produtividade para estruturação de boilerplate e testes sintáticos.
 
@@ -13,7 +13,7 @@ Contudo, a espinha dorsal de cada solução que construo é estritamente humana.
 
 ---
 
-### 📚 Arsenal Técnico: A Interseção entre Academia e Mercado
+### 📚 A Interseção entre Academia e Mercado
 
 **1. Fundamentação Acadêmica (Aplicada no 3º Período)**
 - **Linguagens Base:** C (Alocação Dinâmica de Memória, Estruturas Heterogêneas e Ponteiros), Python (POO Avançada e Módulos Nativos) e JavaScript (ES6+).
