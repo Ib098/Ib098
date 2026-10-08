@@ -23,20 +23,20 @@ Contudo, a espinha dorsal de todo o meu código — a escolha das estruturas de 
 - **Estruturas e Algoritmos:** Implementação e análise de Listas, Pilhas, Filas, Árvores Binárias/AVL e algoritmos de ordenação.
 
 **2. Expansão Autodidata (Mercado & DevOps)**
-- **Backend & APIs:** FastAPI, Uvicorn e integração de APIs RESTful baseadas em OpenAPI/Swagger[cite: 12].
-- **Infraestrutura:** Conteinerização de aplicações com Docker, orquestração via Docker Compose e ambientes Linux[cite: 12, 13].
-- **Arquitetura Client-Side:** Adaptação de algoritmos complexos para execução em memória volátil diretamente no ambiente cliente (*Browser/Edge*)[cite: 12].
+- **Backend & APIs:** FastAPI, Uvicorn e integração de APIs RESTful baseadas em OpenAPI/Swagger.
+- **Infraestrutura:** Conteinerização de aplicações com Docker, orquestração via Docker Compose e ambientes Linux.
+- **Arquitetura Client-Side:** Adaptação de algoritmos complexos para execução em memória volátil diretamente no ambiente cliente (*Browser/Edge*).
 
 ---
 
 ### 🚀 Projeto em Destaque
 
 🔍 **[Financial Audit Engine](https://github.com/Ib098/Financial-Audit-Parsing-Engine-Python-Pandas-OpenPyXL-Pytest-)**  
-*Motor analítico e determinístico para auditoria lógica e conformidade de relatórios financeiros brutos[cite: 13].*
+*Motor analítico e determinístico para auditoria lógica e conformidade de relatórios financeiros brutos.*
 
-- **Arquitetura Híbrida:** Desenvolvido inicialmente como uma API RESTful (FastAPI) conteinerizada em Docker e posteriormente refatorado para um cliente web estático autônomo (*Serverless Client-Side Engine*) em execução contínua no GitHub Pages[cite: 13].
-- **Parsing Heurístico & Big-O:** Algoritmo otimizado para detecção automática de delimitadores e normalização monetária com tempo de execução linear $\mathcal{O}(n)$ sobre os lotes[cite: 13].
-- **Execução In-Memory:** Conformidade estrita com privacidade de dados (*Zero-Data Retention*), realizando parsing, auditoria e compilação de relatórios `.xlsx` exclusivamente na memória da máquina cliente[cite: 13].
+- **Arquitetura Híbrida:** Desenvolvido inicialmente como uma API RESTful (FastAPI) conteinerizada em Docker e posteriormente refatorado para um cliente web estático autônomo (*Serverless Client-Side Engine*) em execução contínua no GitHub Pages.
+- **Parsing Heurístico & Big-O:** Algoritmo otimizado para detecção automática de delimitadores e normalização monetária com tempo de execução linear $\mathcal{O}(n)$ sobre os lotes.
+- **Execução In-Memory:** Conformidade estrita com privacidade de dados (*Zero-Data Retention*), realizando parsing, auditoria e compilação de relatórios `.xlsx` exclusivamente na memória da máquina cliente.
 - **Acesso:** [Demonstração em Produção (GitHub Pages) 🔗](https://ib098.github.io/Financial-Audit-Parsing-Engine-Python-Pandas-OpenPyXL-Pytest-/)
 
 ---
