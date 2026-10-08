@@ -1,28 +1,26 @@
 # Olá, seja bem-vindo(a)! 👋
-### Sou Ítalo Bruno | Estudante de Engenharia de Software & Desenvolvedor Backend
+### Ítalo Bruno | Estudante de Engenharia de Software & Desenvolvedor Backend
 
-Atuo na concepção e implementação de sistemas de software orientados a alto desempenho, resiliência estrutural e rigor lógico. O meu foco de engenharia concentra-se no desenvolvimento de arquiteturas backend, modelagem de dados e no desenho de soluções determinísticas para processamento de dados críticos.
-
-Atualmente no 3º período de Engenharia de Software, a minha abordagem prioriza o desacoplamento de componentes e a definição estrita de contratos de integração, unindo a base científica acadêmica com a velocidade do mercado.
+Desenvolvedor focado na conceção de sistemas determinísticos para processamento de dados críticos. Atualmente no 3º período de Engenharia de Software, priorizo a construção de código limpo, o desacoplamento de componentes e a otimização de recursos de máquina.
 
 ---
 
-### 🧠 Filosofia de Engenharia: Fundamentos + IA
+### 🧠 Manifesto Técnico: Inteligência Artificial & Fundamentos Clássicos
 
-Acredito no desenvolvimento transparente e pragmático. Utilizo modelos de Inteligência Artificial (LLMs) como aceleradores de produtividade para estruturação sintática (*boilerplate*) e resolução de entraves de integração. 
+Acredito no Desenvolvimento Assistido por Inteligência Artificial com rigor metodológico. Utilizo modelos generativos (LLMs) como aceleradores de produtividade para estruturação de boilerplate e testes sintáticos.
 
-Contudo, a espinha dorsal de todo o meu código — a escolha das estruturas de dados, a análise de complexidade assintótica (Notação Big-O), o controle transacional de memória e o design arquitetural — é estritamente fundamentada nos pilares clássicos da Ciência da Computação adquiridos na minha formação acadêmica. A IA digita, mas a Engenharia desenha.
+Contudo, a espinha dorsal de cada solução que construo é estritamente humana. A IA escreve as rotinas braçais, mas a definição da complexidade assintótica (Notação Big-O), o controle do consumo de memória, a modelagem relacional e a topologia da arquitetura são decisões de engenharia que extraio da minha base teórica e acadêmica. O algoritmo digita; a Engenharia desenha.
 
 ---
 
-### 📚 Arsenal Técnico & Áreas de Atuação
+### 📚 Arsenal Técnico: A Interseção entre Academia e Mercado
 
-**1. Fundamentação Acadêmica (Core & Dados)**
+**1. Fundamentação Acadêmica (Aplicada no 3º Período)**
 - **Linguagens Base:** C (Alocação Dinâmica de Memória, Estruturas Heterogêneas e Ponteiros), Python (POO Avançada e Módulos Nativos) e JavaScript (ES6+).
 - **Bancos de Dados & Engenharia:** PostgreSQL e MySQL. Amplo domínio teórico em Teoria da Normalização (1FN a 3FN), Modelagem Relacional (DER), Controle Transacional (ACID) e MVCC.
 - **Estruturas e Algoritmos:** Implementação e análise de Listas, Pilhas, Filas, Árvores Binárias/AVL e algoritmos de ordenação.
 
-**2. Expansão Autodidata (Mercado & DevOps)**
+**2. Expansão Extracurricular**
 - **Backend & APIs:** FastAPI, Uvicorn e integração de APIs RESTful baseadas em OpenAPI/Swagger.
 - **Infraestrutura:** Conteinerização de aplicações com Docker, orquestração via Docker Compose e ambientes Linux.
 - **Arquitetura Client-Side:** Adaptação de algoritmos complexos para execução em memória volátil diretamente no ambiente cliente (*Browser/Edge*).
