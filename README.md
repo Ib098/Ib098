@@ -1,62 +1,60 @@
 # Olá, seja bem-vindo(a)! 👋
-### Sou Ítalo Bruno | Desenvolvedor Backend & Engenharia de Software
+### Sou Ítalo Bruno | Estudante de Engenharia de Software & Desenvolvedor Backend
 
-Atuo na conceção e implementação de sistemas de software orientados a alto desempenho, resiliência estrutural e rigor lógico. O meu foco de engenharia concentra-se no desenvolvimento de arquiteturas backend escaláveis, na modelagem de pipelines analíticos e no desenho de soluções determinísticas para processamento de dados críticos.
+Atuo na concepção e implementação de sistemas de software orientados a alto desempenho, resiliência estrutural e rigor lógico[cite: 12]. O meu foco de engenharia concentra-se no desenvolvimento de arquiteturas backend, modelagem de dados e no desenho de soluções determinísticas para processamento de dados críticos[cite: 12].
 
-A minha abordagem técnica prioriza o desacoplamento de componentes, a definição estrita de contratos de dados e a mitigação de falhas em tempo de execução através de testes automatizados e tipagem rigorosa.
+Atualmente no 3º período de Engenharia de Software, a minha abordagem prioriza o desacoplamento de componentes e a definição estrita de contratos de integração[cite: 12], unindo a base científica acadêmica com a velocidade do mercado.
 
 ---
 
-### 🌐 Áreas de Atuação & Competências
+### 🧠 Filosofia de Engenharia: Fundamentos + IA
 
-- **Engenharia Backend & APIs:** Desenvolvimento de microsserviços e APIs assíncronas utilizando Python (FastAPI), priorizando arquiteturas modulares, controlo estrito de contratos de integração e documentação padronizada (OpenAPI/Swagger).
-- **Processamento & Ingestão de Dados:** Implementação de pipelines eficientes para sanitização, validação sintática e auditoria de grandes volumes de informação estruturada e semiestruturada.
-- **Arquitetura Client-Side & Edge Computing:** Adaptação de algoritmos complexos para execução em memória volátil diretamente no ambiente cliente (*Browser/Edge*), eliminando custos de infraestrutura e garantindo conformidade com privacidade de dados (*Zero-Data Retention*).
-- **Infraestrutura & DevOps:** Conteinerização de aplicações com Docker e orquestração de ambientes de desenvolvimento e teste via Docker Compose e Linux.
+Acredito no desenvolvimento transparente e pragmático. Utilizo modelos de Inteligência Artificial (LLMs) como aceleradores de produtividade para estruturação sintática (*boilerplate*) e resolução de entraves de integração. 
+
+Contudo, a espinha dorsal de todo o meu código — a escolha das estruturas de dados, a análise de complexidade assintótica (Notação Big-O), o controle transacional de memória e o design arquitetural — é estritamente fundamentada nos pilares clássicos da Ciência da Computação adquiridos na minha formação acadêmica. A IA digita, mas a Engenharia desenha.
+
+---
+
+### 📚 Arsenal Técnico & Áreas de Atuação
+
+**1. Fundamentação Acadêmica (Core & Dados)**
+- **Linguagens Base:** C (Alocação Dinâmica de Memória, Estruturas Heterogêneas e Ponteiros), Python (POO Avançada e Módulos Nativos) e JavaScript (ES6+).
+- **Bancos de Dados & Engenharia:** PostgreSQL e MySQL. Amplo domínio teórico em Teoria da Normalização (1FN a 3FN), Modelagem Relacional (DER), Controle Transacional (ACID) e MVCC.
+- **Estruturas e Algoritmos:** Implementação e análise de Listas, Pilhas, Filas, Árvores Binárias/AVL e algoritmos de ordenação.
+
+**2. Expansão Autodidata (Mercado & DevOps)**
+- **Backend & APIs:** FastAPI, Uvicorn e integração de APIs RESTful baseadas em OpenAPI/Swagger[cite: 12].
+- **Infraestrutura:** Conteinerização de aplicações com Docker, orquestração via Docker Compose e ambientes Linux[cite: 12, 13].
+- **Arquitetura Client-Side:** Adaptação de algoritmos complexos para execução em memória volátil diretamente no ambiente cliente (*Browser/Edge*)[cite: 12].
 
 ---
 
 ### 🚀 Projeto em Destaque
 
 🔍 **[Financial Audit Engine](https://github.com/Ib098/Financial-Audit-Parsing-Engine-Python-Pandas-OpenPyXL-Pytest-)**  
-*Motor analítico e determinístico para auditoria lógica e conformidade de relatórios financeiros brutos.*
+*Motor analítico e determinístico para auditoria lógica e conformidade de relatórios financeiros brutos[cite: 13].*
 
-- **Arquitetura Dupla & Desacoplada:** Estruturado com uma API RESTful de alta performance em Python (FastAPI) conteinerizada em Docker, acompanhada por um cliente web estático autônomo (*Serverless Client-Side Engine*) em execução contínua no GitHub Pages.
-- **Parsing Heurístico:** Algoritmo dedicado à deteção automática de delimitadores e normalização de representações monetárias divergentes.
-- **Execução In-Memory:** Capacidade de efetuar o processamento completo, análise de severidade e compilação de relatórios executivos em formato `.xlsx` (via SheetJS) e `.json` estritamente na memória da máquina cliente.
-- **Acesso à Aplicação:** [Demonstração em Produção (GitHub Pages)](https://ib098.github.io/Financial-Audit-Parsing-Engine-Python-Pandas-OpenPyXL-Pytest-/)
+- **Arquitetura Híbrida:** Desenvolvido inicialmente como uma API RESTful (FastAPI) conteinerizada em Docker e posteriormente refatorado para um cliente web estático autônomo (*Serverless Client-Side Engine*) em execução contínua no GitHub Pages[cite: 13].
+- **Parsing Heurístico & Big-O:** Algoritmo otimizado para detecção automática de delimitadores e normalização monetária com tempo de execução linear $\mathcal{O}(n)$ sobre os lotes[cite: 13].
+- **Execução In-Memory:** Conformidade estrita com privacidade de dados (*Zero-Data Retention*), realizando parsing, auditoria e compilação de relatórios `.xlsx` exclusivamente na memória da máquina cliente[cite: 13].
+- **Acesso:** [Demonstração em Produção (GitHub Pages) 🔗](https://ib098.github.io/Financial-Audit-Parsing-Engine-Python-Pandas-OpenPyXL-Pytest-/)
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### Linguagens & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Backend & APIs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![RESTful](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-
-#### Frontend & Visualização
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-#### Infraestrutura & Ambiente
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ### 📬 Contacto & Redes Profissionais
 
-- **LinkedIn:** [linkedin.com/in/ítalo-bruno](https://www.linkedin.com/in/%C3%ADtalo-b-155b73167)
-- **GitHub:** [github.com/Ib098](https://github.com/Ib098)
-- **E-mail:** [italo_bruno2011@hotmail.com](mailto:italo_bruno2011@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/ítalo-bruno](https://www.linkedin.com/in/%C3%ADtalo-bruno-155b73167)[cite: 13]
+- **GitHub:** [github.com/Ib098](https://github.com/Ib098)[cite: 13]
+- **E-mail:** [italo_bruno2011@hotmail.com](mailto:italo_bruno2011@hotmail.com)[cite: 13]
