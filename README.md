@@ -1,9 +1,9 @@
 # Olá, seja bem-vindo(a)! 👋
 ### Sou Ítalo Bruno | Estudante de Engenharia de Software & Desenvolvedor Backend
 
-Atuo na concepção e implementação de sistemas de software orientados a alto desempenho, resiliência estrutural e rigor lógico[cite: 12]. O meu foco de engenharia concentra-se no desenvolvimento de arquiteturas backend, modelagem de dados e no desenho de soluções determinísticas para processamento de dados críticos[cite: 12].
+Atuo na concepção e implementação de sistemas de software orientados a alto desempenho, resiliência estrutural e rigor lógico. O meu foco de engenharia concentra-se no desenvolvimento de arquiteturas backend, modelagem de dados e no desenho de soluções determinísticas para processamento de dados críticos.
 
-Atualmente no 3º período de Engenharia de Software, a minha abordagem prioriza o desacoplamento de componentes e a definição estrita de contratos de integração[cite: 12], unindo a base científica acadêmica com a velocidade do mercado.
+Atualmente no 3º período de Engenharia de Software, a minha abordagem prioriza o desacoplamento de componentes e a definição estrita de contratos de integração, unindo a base científica acadêmica com a velocidade do mercado.
 
 ---
 
