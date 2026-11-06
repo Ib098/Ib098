@@ -6,12 +6,6 @@ Desenvolvedor focado em **sistemas determinísticos e processamento de dados cr�
 
 ---
 
-### 🧠 IA & Rigor de Engenharia
-
-Utilizo LLMs estritamente como aceleradores de produtividade para *boilerplate* e testes sintáticos. A tomada de decisão — complexidade assintótica, integridade transacional, modelagem relacional e arquitetura de sistemas — permanece 100% analítica e humana.
-
----
-
 ### 🛠️ Tecnologias & Fundamentos
 
 * **Linguagens:** Python (FastAPI, Pytest, Pandas), C (estruturas e ponteiros), JavaScript.
